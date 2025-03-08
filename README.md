@@ -11,7 +11,7 @@ In this course, I learned how to design and structure databases effectively usin
 - *Indexes and Optimization*: Improving database performance by indexing columns and optimizing queries.
 
 ## My Repository
-[Myrepo](Myrepository.PNG)
+![Myrepo](Myrepository.PNG)
 
 ## Links
 You can find my GitHub Link Here[GitHub](https://github.com/Pallavidhawan72)
